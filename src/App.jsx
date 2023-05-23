@@ -1,10 +1,10 @@
 import React from 'react'
 import BookList from './components/BookList'
-import Home from './pages/home'
+import Dashboard from './pages/dashboard'
 const App = () => {
   return (
     <>
-      <Home/>
+      <Dashboard/>
     </>
   )
 }
